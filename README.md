@@ -5,3 +5,5 @@ Support multiple Bluetooth devices through a single web interface
 v 0.1 Support for sBrick
 
 v 0.2 Support for Brickster Module
+
+V 0.3 (experimental) Support for "NodeMCU" Module
